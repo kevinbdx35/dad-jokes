@@ -24,7 +24,6 @@ async function generateJoke() {
 
 /****** USING .then() ******/
 
-
 /*function generateJoke() {
   const config = {
     headers: {
