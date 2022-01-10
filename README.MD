@@ -6,7 +6,6 @@ This is a generator of Dad Jokes
 
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-    - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
