@@ -2,6 +2,8 @@
 
 This is a generator of Dad Jokes
 
+![Screen Capture](https://github.com/kevinbdx35/dad-jokes/blob/main/screen-capture-gif.gif?raw=true)
+
 ## Table of contents
 
   - [Table of contents](#table-of-contents)
